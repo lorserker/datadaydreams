@@ -10,12 +10,12 @@ BLOG_AUTHOR = "Lorand Dali"
 BLOG_TITLE = "Data Daydreams"
 # This is the main URL for your site. It will be used
 # in a prominent link
-SITE_URL = "/"
+SITE_URL = "http://datadaydreams.com"
 # This is the URL where nikola's output will be deployed.
 # If not set, defaults to SITE_URL
 # BASE_URL = "http://getnikola.com/"
-BLOG_EMAIL = "joe@demo.site"
-BLOG_DESCRIPTION = "This is a demo site for Nikola."
+BLOG_EMAIL = "lorand@lorand.me"
+BLOG_DESCRIPTION = "Data Daydreams Blog"
 
 # Nikola is multilingual!
 #
@@ -313,12 +313,12 @@ CONTENT_FOOTER = CONTENT_FOOTER.format(email=BLOG_EMAIL,
 # To use comments, you can choose between different third party comment
 # systems, one of "disqus", "livefyre", "intensedebate", "moot",
 #                 "googleplus" or "facebook"
-# COMMENT_SYSTEM = "disqus"
+COMMENT_SYSTEM = "disqus"
 # And you also need to add your COMMENT_SYSTEM_ID which
 # depends on what comment system you use. The default is
 # "nikolademo" which is a test account for Disqus. More information
 # is in the manual.
-# COMMENT_SYSTEM_ID = "nikolademo"
+COMMENT_SYSTEM_ID = "datadaydreams22"
 
 # Create index.html for story folders?
 # STORY_INDEX = False
