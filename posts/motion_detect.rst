@@ -64,4 +64,4 @@ The code implementing the above algorithm is `available on github`_.The slides w
 
 .. _available on github: https://github.com/lorserker/pmdetect
 .. _Ljubljana Python Meetup: http://www.meetup.com/Ljubljana-Python-Group/events/141852972/
-.. _here: /slides/motion_detect/index.html
+.. _here: /slides/motion_detect.zip
