@@ -36,7 +36,7 @@ The figure below shows the frequency of each of the `most popular 200 Slovenian 
 
 The top 200 names only cover about 80% of the population (819966 boys and 824442 girls). Using this data only would leave around 120000 boys and 115000 girls nameless.
 
-Knowing that the popularity of names decreases exponentially, we can estimate the frequency of the boy names which didn't make it into the top ten by tuning the parameters *n* and *b* in the equation below:
+Knowing that the popularity of names decreases exponentially, we can estimate the frequency of the boy names which didn't make it into the top 200 by tuning the parameters *n* and *b* in the equation below:
 
 .. figure:: http://latex.codecogs.com/gif.latex?730\int_{0}^{n}{e^{-bx}~dx}%20=%20120000
    :align: center
