@@ -378,9 +378,9 @@ COMMENT_SYSTEM_ID = "datadaydreams22"
 # MATHJAX_CONFIG = ""
 
 # If you are using the compile-ipynb plugin, just add this one:
-#MATHJAX_CONFIG = """
-#<script type="text/x-mathjax-config">
-#MathJax.Hub.Config({
+# MATHJAX_CONFIG = """
+# <script type="text/x-mathjax-config">
+# MathJax.Hub.Config({
 #    tex2jax: {
 #        inlineMath: [ ['$','$'], ["\\\(","\\\)"] ],
 #        displayMath: [ ['$$','$$'], ["\\\[","\\\]"] ]
@@ -389,9 +389,9 @@ COMMENT_SYSTEM_ID = "datadaydreams22"
 #    "HTML-CSS": {
 #        styles: {'.MathJax_Display': {"margin": 0}}
 #    }
-#});
-#</script>
-#"""
+# });
+# </script>
+# """
 
 # What MarkDown extensions to enable?
 # You will also get gist, nikola and podcast because those are
