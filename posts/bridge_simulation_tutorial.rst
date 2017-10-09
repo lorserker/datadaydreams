@@ -16,7 +16,7 @@ The story starts with a bidding problem. Holding South's hand in the diagram, wh
 
     
             <iframe
-                width="250"
+                width="160"
                 height="250"
                 src="http://www.bridgebase.com/tools/handviewer.html?s=saj874ha986daca53&d=n&a=3cp?"
                 frameborder="0"
